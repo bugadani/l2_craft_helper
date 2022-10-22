@@ -83,6 +83,75 @@
                 "Coarse Bone Powder": 3,
                 "Varnish": 3
             }
+        },
+        "Artisan's Frame": {
+            "result_count": 1,
+            "ingredients": {
+                "Steel Mold": 1,
+                "Varnish of Purity": 5,
+                "Adamantine Nugget": 10
+            }
+        },
+        "Blacksmith's Frame": {
+            "result_count": 1,
+            "ingredients": {
+                "Silver Mold": 1,
+                "Varnish of Purity": 5,
+                "Mithril Ore": 10
+            }
+        },
+        "Crafted Leather": {
+            "result_count": 1,
+            "ingredients": {
+                "Coal": 4,
+                "Leather": 4,
+                "Cord": 4
+            }
+        },
+        "Durable Metal Plate": {
+            "result_count": 1,
+            "ingredients": {
+                "Metallic Thread": 5,
+                "Mithril Ore": 5
+            }
+        },
+        "Metal Hardener": {
+            "result_count": 1,
+            "ingredients": {
+                "Stem": 10,
+                "Varnish": 10,
+                "Iron Ore": 10
+            }
+        },
+        "Metallic Fiber": {
+            "result_count": 20,
+            "ingredients": {
+                "Silver Nugget": 15,
+                "Cord": 20
+            }
+        },
+        "Metallic Thread": {
+            "result_count": 1,
+            "ingredients": {
+                "Iron Ore": 5,
+                "Thread": 10
+            }
+        },
+        "Mithril Alloy": {
+            "result_count": 1,
+            "ingredients": {
+                "Mithril Ore": 1,
+                "Varnish of Purity": 1,
+                "Steel": 2
+            }
+        },
+        "Oriharukon": {
+            "result_count": 1,
+            "ingredients": {
+                "Synthetic Cokes": 1,
+                "Oriharukon Ore": 4,
+                "Silver Ore": 12
+            }
         }
     }
 }
