@@ -1,9 +1,22 @@
 {
     "recipes": {
+        "Braided Hemp": {
+            "result_count": 1,
+            "ingredients": {
+                "Stem": 5
+            }
+        },
         "Coarse Bone Powder": {
             "result_count": 1,
             "ingredients": {
                 "Animal Bone": 10
+            }
+        },
+        "Cokes": {
+            "result_count": 1,
+            "ingredients": {
+                "Coal": 3,
+                "Charcoal": 3
             }
         },
         "Leather": {
@@ -12,11 +25,11 @@
                 "Animal Skin": 6
             }
         },
-        "Cokes": {
+        "Steel": {
             "result_count": 1,
             "ingredients": {
-                "Coal": 3,
-                "Charcoal": 3,
+                "Varnish": 5,
+                "Iron Ore": 5
             }
         }
     }
