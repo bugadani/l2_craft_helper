@@ -31,6 +31,58 @@
                 "Varnish": 5,
                 "Iron Ore": 5
             }
+        },
+        "Compound Braid": {
+            "result_count": 1,
+            "ingredients": {
+                "Thread": 5,
+                "Braided Hemp": 5
+            }
+        },
+        "Cord": {
+            "result_count": 20,
+            "ingredients": {
+                "Steel": 2,
+                "Thread": 25
+            }
+        },
+        "High Grade Suede": {
+            "result_count": 1,
+            "ingredients": {
+                "Suede": 3,
+                "Coarse Bone Powder": 1
+            }
+        },
+        "Silver Mold": {
+            "result_count": 1,
+            "ingredients": {
+                "Braided Hemp": 5,
+                "Cokes": 5,
+                "Silver Nugget": 10
+            }
+        },
+        "Steel Mold": {
+            "result_count": 1,
+            "ingredients": {
+                "Iron Ore": 5,
+                "Coal": 5,
+                "Braided Hemp": 5
+            }
+        },
+        "Synthetic Cokes": {
+            "result_count": 1,
+            "ingredients": {
+                "Oriharukon Ore": 1,
+                "Cokes": 3
+            }
+        },
+        "Varnish of Purity": {
+            "result_count": 1,
+            "ingredients": {
+                "Stone of Purity": 1,
+                "Coarse Bone Powder": 3,
+                "Varnish": 3
+            }
         }
     }
 }
