@@ -1,0 +1,23 @@
+{
+    "recipes": {
+        "Coarse Bone Powder": {
+            "result_count": 1,
+            "ingredients": {
+                "Animal Bone": 10
+            }
+        },
+        "Leather": {
+            "result_count": 1,
+            "ingredients": {
+                "Animal Skin": 6
+            }
+        },
+        "Cokes": {
+            "result_count": 1,
+            "ingredients": {
+                "Coal": 3,
+                "Charcoal": 3,
+            }
+        }
+    }
+}
