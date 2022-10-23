@@ -1,0 +1,109 @@
+{
+    "Soulshot: D-Grade": {
+        "result_count": 156,
+        "ingredients": {
+            "Crystal: D-Grade": 1,
+            "Soul Ore": 3
+        }
+    },
+    "Soulshot: C-Grade": {
+        "result_count": 476,
+        "ingredients": {
+            "Crystal: C-Grade": 1,
+            "Soul Ore": 15
+        }
+    },
+    "Soulshot: B-Grade": {
+        "result_count": 450,
+        "ingredients": {
+            "Crystal: B-Grade": 1,
+            "Soul Ore": 54
+        }
+    },
+    "Soulshot: A-Grade": {
+        "result_count": 300,
+        "ingredients": {
+            "Crystal: A-Grade": 1,
+            "Soul Ore": 36
+        }
+    },
+    "Soulshot: S-Grade": {
+        "result_count": 350,
+        "ingredients": {
+            "Crystal: S-Grade": 1,
+            "Soul Ore": 40
+        }
+    },
+
+    "Spiritshot: D-Grade": {
+        "result_count": 100,
+        "ingredients": {
+            "Crystal: D-Grade": 1,
+            "Spirit Ore": 3
+        }
+    },
+    "Spiritshot: C-Grade": {
+        "result_count": 200,
+        "ingredients": {
+            "Crystal: C-Grade": 1,
+            "Spirit Ore": 10
+        }
+    },
+    "Spiritshot: B-Grade": {
+        "result_count": 150,
+        "ingredients": {
+            "Crystal: B-Grade": 1,
+            "Spirit Ore": 15
+        }
+    },
+    "Spiritshot: A-Grade": {
+        "result_count": 200,
+        "ingredients": {
+            "Crystal: A-Grade": 1,
+            "Spirit Ore": 22
+        }
+    },
+    "Spiritshot: S-Grade": {
+        "result_count": 200,
+        "ingredients": {
+            "Crystal: S-Grade": 1,
+            "Spirit Ore": 15
+        }
+    },
+
+    "Blessed Spiritshot: D-Grade": {
+        "result_count": 100,
+        "ingredients": {
+            "Crystal: D-Grade": 2,
+            "Spirit Ore": 8
+        }
+    },
+    "Blessed Spiritshot: C-Grade": {
+        "result_count": 200,
+        "ingredients": {
+            "Crystal: C-Grade": 2,
+            "Spirit Ore": 30
+        }
+    },
+    "Blessed Spiritshot: B-Grade": {
+        "result_count": 100,
+        "ingredients": {
+            "Crystal: B-Grade": 2,
+            "Spirit Ore": 16
+        }
+    },
+    "Blessed Spiritshot: A-Grade": {
+        "result_count": 200,
+        "ingredients": {
+            "Crystal: A-Grade": 2,
+            "Spirit Ore": 70
+        }
+    },
+    "Blessed Spiritshot: S-Grade": {
+        "result_count": 200,
+        "ingredients": {
+            "Crystal: S-Grade": 2,
+            "Spirit Ore": 50
+        }
+    }
+}

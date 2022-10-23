@@ -21,6 +21,8 @@ fn read_database() -> RecipeDatabase {
     let mut database = RecipeDatabase::new();
 
     database.add(read_file("database/materials.json"));
+    database.add(read_file("database/shots.json"));
+
     database.add(read_file("database/common/common.json"));
     database.add(read_file("database/common/accessories.json"));
     database.add(read_file("database/common/elixir.json"));
