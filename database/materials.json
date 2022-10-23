@@ -199,5 +199,13 @@
             "Enria": 5,
             "Mold Hardener": 10
         }
+    },
+    "Leolin's Mold": {
+        "result_count": 1,
+        "ingredients": {
+            "Durable Metal Plate": 10,
+            "Adamantine Nugget": 15,
+            "Cord": 40
+        }
     }
 }

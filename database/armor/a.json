@@ -1,1 +1,184 @@
-{}
+{
+    "Sealed Tallum Boots (60%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Maestro Anvil Lock": 1,
+            "Recipe: Sealed Tallum Boots (60%)": 1,
+            "Asofe": 5,
+            "Crystal: B-Grade": 10,
+            "Sealed Tallum Boots Lining": 13,
+            "High Grade Suede": 15,
+            "Gemstone B": 21,
+            "Crafted Leather": 25
+        }
+    },
+    "Sealed Tallum Boots (100%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Sealed Tallum Boots (100%)": 1,
+            "Warsmith's Mold": 1,
+            "Asofe": 4,
+            "High Grade Suede": 12,
+            "Sealed Tallum Boots Lining": 13,
+            "Crystal: B-Grade": 18,
+            "Gemstone B": 19,
+            "Crafted Leather": 20
+        }
+    },
+    "Sealed Tallum Gloves (60%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Maestro Anvil Lock": 1,
+            "Recipe: Sealed Tallum Gloves (60%)": 1,
+            "Asofe": 5,
+            "Crystal: B-Grade": 10,
+            "Sealed Tallum Gloves Design": 13,
+            "High Grade Suede": 15,
+            "Gemstone B": 21,
+            "Crafted Leather": 25
+        }
+    },
+    "Sealed Tallum Gloves (100%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Sealed Tallum Gloves (100%)": 1,
+            "Warsmith's Mold": 1,
+            "Asofe": 4,
+            "High Grade Suede": 12,
+            "Sealed Tallum Gloves Design": 13,
+            "Crystal: B-Grade": 18,
+            "Gemstone B": 19,
+            "Crafted Leather": 20
+        }
+    },
+    "Sealed Tallum Helmet (60%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Maestro Mold": 1,
+            "Recipe: Sealed Tallum Helmet (60%)": 1,
+            "Asofe": 4,
+            "Sealed Tallum Helmet Design": 13,
+            "Crystal: B-Grade": 19,
+            "Gemstone B": 33,
+            "Crafted Leather": 40
+        }
+    },
+    "Sealed Tallum Helmet (100%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Sealed Tallum Helmet (100%)": 1,
+            "Leolin's Mold": 1,
+            "Asofe": 9,
+            "Sealed Tallum Helmet Design": 13,
+            "Gemstone B": 30,
+            "Crystal: B-Grade": 32,
+            "Crafted Leather": 90
+        }
+    },
+    "Sealed Tallum Plate Armor (60%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Sealed Tallum Plate Armor (60%)": 1,
+            "Maestro Mold": 4,
+            "Sealed Tallum Plate Armor Pattern": 13,
+            "Varnish of Purity": 18,
+            "Asofe": 36,
+            "Mithril Alloy": 54,
+            "Crystal: B-Grade": 63,
+            "Gemstone B": 156
+        }
+    },
+    "Sealed Tallum Plate Armor (100%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Sealed Tallum Plate Armor (100%)": 1,
+            "Arcsmith's Anvil": 4,
+            "Sealed Tallum Plate Armor Pattern": 13,
+            "Varnish of Purity": 18,
+            "Asofe": 36,
+            "Mithril Alloy": 54,
+            "Crystal: B-Grade": 118,
+            "Gemstone B": 142
+        }
+    },
+    "Sealed Tallum Leather Armor (60%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Maestro Anvil Lock": 1,
+            "Recipe: Sealed Tallumllum Leather Armor (60%)": 1,
+            "Sealed Tallum Leather Armor Pattern": 13,
+            "Compound Braid": 33,
+            "Asofe": 33,
+            "Crystal: B-Grade": 56,
+            "Metallic Fiber": 66,
+            "Gemstone B": 112,
+            "Crafted Leather": 132
+        }
+    },
+    "Sealed Tallum Leather Armor (100%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Sealed Tallum Leather Armor (100%)": 1,
+            "Arcsmith's Anvil": 1,
+            "Sealed Tallum Leather Armor Pattern": 13,
+            "Compound Braid": 65,
+            "Asofe": 65,
+            "Crystal: B-Grade": 99,
+            "Gemstone B": 103,
+            "Metallic Fiber": 130,
+            "Crafted Leather": 260
+        }
+    },
+    "Sealed Tallum Tunic (60%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Maestro Anvil Lock": 1,
+            "Recipe: Sealed Tallum Tunic (60%)": 1,
+            "Sealed Tallum Tunic Texture": 13,
+            "Asofe": 20,
+            "Crystal: B-Grade": 37,
+            "Metallic Fiber": 60,
+            "Gemstone B": 73,
+            "Crafted Leather": 100
+        }
+    },
+    "Sealed Tallum Tunic (100%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Sealed Tallum Tunic (100%)": 1,
+            "Leolin's Mold": 1,
+            "Sealed Tallum Tunic Texture": 13,
+            "Asofe": 36,
+            "Gemstone B": 67,
+            "Crystal: B-Grade": 70,
+            "Metallic Fiber": 108,
+            "Crafted Leather": 180
+        }
+    },
+    "Sealed Tallum Stockings (60%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Maestro Anvil Lock": 1,
+            "Recipe: Sealed Tallum Stockings (60%)": 1,
+            "Asofe": 12,
+            "Sealed Tallum Stockings Fabric": 13,
+            "Crystal: B-Grade": 22,
+            "Metallic Fiber": 36,
+            "Gemstone B": 43,
+            "Crafted Leather": 60
+        }
+    },
+    "Sealed Tallum Stockings (100%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Sealed Tallum Stockings (100%)": 1,
+            "Leolin's Mold": 1,
+            "Asofe": 8,
+            "Sealed Tallum Stockings Fabric": 13,
+            "Crystal: B-Grade": 21,
+            "Metallic Fiber": 24,
+            "Gemstone B": 39,
+            "Crafted Leather": 40
+        }
+    }
+}
