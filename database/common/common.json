@@ -1,0 +1,241 @@
+{
+    "Antidote": {
+        "result_count": 1,
+        "ingredients": {
+            "Fish Oil": 2
+        }
+    },
+    "Bandage": {
+        "result_count": 1,
+        "ingredients": {
+            "Fish Oil": 2
+        }
+    },
+    "Haste Potion": {
+        "result_count": 1,
+        "ingredients": {
+            "Fish Oil": 4,
+            "Fish Scale": 4
+        }
+    },
+    "Lesser Healing Potion": {
+        "result_count": 1,
+        "ingredients": {
+            "Fish Oil": 2
+        }
+    },
+    "Magic Haste Potion": {
+        "result_count": 1,
+        "ingredients": {
+            "Fish Oil": 10,
+            "Fish Scale": 7
+        }
+    },
+    "Potion of Alacrity": {
+        "result_count": 1,
+        "ingredients": {
+            "Fish Oil": 5,
+            "Fish Scale": 9
+        }
+    },
+
+    "Emergency Dressing": {
+        "result_count": 1,
+        "ingredients": {
+            "Fish Oil": 3
+        }
+    },
+    "Greater Antidote": {
+        "result_count": 1,
+        "ingredients": {
+            "Fish Oil": 3
+        }
+    },
+    "Greater Fish Oil": {
+        "result_count": 1,
+        "ingredients": {
+            "Fish Oil": 4
+        }
+    },
+    "Healing Potion": {
+        "result_count": 1,
+        "ingredients": {
+            "Fish Oil": 2,
+            "Fish Scale": 1
+        }
+    },
+    "Mystery Potion": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Mystery Potion": 1,
+            "Greater Fish Oil": 10,
+            "Fish Scale": 28
+        }
+    },
+
+    "Dye Potion - A": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye Potion - A": 1,
+            "Greater Fish Oil": 6,
+            "Shiny Fish Scale": 15,
+            "Fish Scale": 50
+        }
+    },
+    "Dye Potion - B": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye Potion - B": 1,
+            "Greater Fish Oil": 6,
+            "Shiny Fish Scale": 15,
+            "Fish Scale": 50
+        }
+    },
+    "Dye Potion - C": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye Potion - C": 1,
+            "Greater Fish Oil": 6,
+            "Shiny Fish Scale": 15,
+            "Fish Scale": 50
+        }
+    },
+    "Dye Potion - D": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye Potion - D": 1,
+            "Greater Fish Oil": 6,
+            "Shiny Fish Scale": 15,
+            "Fish Scale": 50
+        }
+    },
+
+    "Facelifting Potion - A": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Facelifting Potion - A": 1,
+            "Greater Fish Oil": 6,
+            "Shiny Fish Scale": 15,
+            "Fish Scale": 50
+        }
+    },
+    "Facelifting Potion - B": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Facelifting Potion - B": 1,
+            "Greater Fish Oil": 6,
+            "Shiny Fish Scale": 15,
+            "Fish Scale": 50
+        }
+    },
+    "Facelifting Potion - C": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Facelifting Potion - C": 1,
+            "Greater Fish Oil": 6,
+            "Shiny Fish Scale": 15,
+            "Fish Scale": 50
+        }
+    },
+
+    "Hair Style Change Potion - A": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Hair Style Change Potion - A": 1,
+            "Greater Fish Oil": 6,
+            "Shiny Fish Scale": 15,
+            "Fish Scale": 50
+        }
+    },
+    "Hair Style Change Potion - B": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Hair Style Change Potion - B": 1,
+            "Greater Fish Oil": 6,
+            "Shiny Fish Scale": 15,
+            "Fish Scale": 50
+        }
+    },
+    "Hair Style Change Potion - C": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Hair Style Change Potion - C": 1,
+            "Greater Fish Oil": 6,
+            "Shiny Fish Scale": 15,
+            "Fish Scale": 50
+        }
+    },
+    "Hair Style Change Potion - D": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Hair Style Change Potion - D": 1,
+            "Greater Fish Oil": 6,
+            "Shiny Fish Scale": 15,
+            "Fish Scale": 50
+        }
+    },
+    "Hair Style Change Potion - E": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Hair Style Change Potion - E": 1,
+            "Greater Fish Oil": 6,
+            "Shiny Fish Scale": 15,
+            "Fish Scale": 50
+        }
+    },
+    "Hair Style Change Potion - F": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Hair Style Change Potion - F": 1,
+            "Greater Fish Oil": 6,
+            "Shiny Fish Scale": 15,
+            "Fish Scale": 50
+        }
+    },
+    "Hair Style Change Potion - G": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Hair Style Change Potion - G": 1,
+            "Greater Fish Oil": 6,
+            "Shiny Fish Scale": 15,
+            "Fish Scale": 50
+        }
+    },
+
+    "Greater Haste Potion": {
+        "result_count": 1,
+        "ingredients": {
+            "Greater Fish Oil": 4,
+            "Fish Scale": 7
+        }
+    },
+    "Greater Magic Haste Potion": {
+        "result_count": 1,
+        "ingredients": {
+            "Greater Fish Oil": 10,
+            "Fish Scale": 12
+        }
+    },
+    "Greater Swift Attack Potion": {
+        "result_count": 1,
+        "ingredients": {
+            "Greater Fish Oil": 10,
+            "Fish Scale": 12
+        }
+    },
+
+    "Premium Fish Oil": {
+        "result_count": 1,
+        "ingredients": {
+            "Greater Fish Oil": 4
+        }
+    },
+
+    "Greater Healing Potion": {
+        "result_count": 1,
+        "ingredients": {
+            "Fish Oil": 3,
+            "Fish Scale": 3
+        }
+    }
+}

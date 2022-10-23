@@ -1,0 +1,203 @@
+{
+    "Cat Ears": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe - Cat Ears": 1,
+            "Cat Ears Fabric": 20,
+            "Shiny Fish Gem": 150,
+            "Fish Gem": 300
+        }
+    },
+    "Maiden's Hairpin": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe - Maiden's Hairpin": 1,
+            "Maiden's Hairpin Piece": 20,
+            "Shiny Fish Gem": 150,
+            "Fish Gem": 300
+        }
+    },
+    "Outlaw's Eyepatch": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe - Outlaw's Eyepatch": 1,
+            "Outlaw's Eyepatch Strap": 20,
+            "Shiny Fish Gem": 150,
+            "Fish Gem": 300
+        }
+    },
+    "Rabbit Ears": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe - Rabbit Ears": 1,
+            "Rabbit Ears Fabric": 20,
+            "Shiny Fish Gem": 150,
+            "Fish Gem": 300
+        }
+    },
+    "Raccoon Ears": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe - Raccoon Ears": 1,
+            "Raccoon Ears Fabric": 20,
+            "Shiny Fish Gem": 150,
+            "Fish Gem": 300
+        }
+    },
+    "Daisy Hairpin": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe - Daisy Hairpin": 1,
+            "Daisy Hairpin Piece": 20,
+            "Shiny Fish Gem": 150,
+            "Fish Gem": 300
+        }
+    },
+    "Fairy Antennae": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe - Fairy Antennae": 1,
+            "Fairy Antennae Piece": 20,
+            "Shiny Fish Gem": 150,
+            "Fish Gem": 300
+        }
+    },
+    "Forget-me-not Hairpin": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe - Forget-me-not Hairpin": 1,
+            "Piece of Forget-me-not Hairpin": 20,
+            "Shiny Fish Gem": 150,
+            "Fish Gem": 300
+        }
+    },
+    "Lady's Hairpin": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe - Lady's Hairpin": 1,
+            "Lady's Hairpin Piece": 20,
+            "Shiny Fish Gem": 150,
+            "Fish Gem": 300
+        }
+    },
+    "Little Angel Wings": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe - Little Angel Wings": 1,
+            "Little Angel Wings Piece": 20,
+            "Shiny Fish Gem": 150,
+            "Fish Gem": 300
+        }
+    },
+    "Monocle": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe - Monocle": 1,
+            "Monocle Piece": 20,
+            "Shiny Fish Gem": 150,
+            "Fish Gem": 300
+        }
+    },
+    "Party Mask": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe - Party Mask": 1,
+            "Party Mask Fabric": 20,
+            "Shiny Fish Gem": 150,
+            "Fish Gem": 300
+        }
+    },
+    "Pirate's Eye Patch": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe - Pirate's Eye Patch": 1,
+            "Pirate's Eye Patch Material": 20,
+            "Shiny Fish Gem": 150,
+            "Fish Gem": 300
+        }
+    },
+    "Red Horn of Victory": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe - Red Horn of Victory": 1,
+            "Red Horn of Victory Fragment": 20,
+            "Shiny Fish Gem": 150,
+            "Fish Gem": 300
+        }
+    },
+    
+    "Artisan's Goggles (70%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Artisan's Goggles (70%)": 1,
+            "Artisan's Goggles Fabric": 20,
+            "Shiny Fish Gem": 150,
+            "Fish Gem": 300,
+            "Green Colored Fish Scale": 360,
+            "Purple Colored Fish Scale": 400,
+            "White Colored Fish Scale": 430
+        }
+    },
+    "Artisan's Goggles (100%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Artisan's Goggles (100%)": 1,
+            "Artisan's Goggles Fabric": 20,
+            "Shiny Fish Gem": 200,
+            "Fish Gem": 400,
+            "Green Colored Fish Scale": 600,
+            "Purple Colored Fish Scale": 660,
+            "White Colored Fish Scale": 680
+        }
+    },
+
+    "Feathered Hat (70%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Feathered Hat (70%)": 1,
+            "Feathered Hat Fabric": 20,
+            "Shiny Fish Gem": 150,
+            "Fish Gem": 300,
+            "Jade Colored Fish Scale": 365,
+            "Yellow Colored Fish Scale": 400,
+            "Black Colored Fish Scale": 430
+        }
+    },
+    "Feathered Hat (100%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Feathered Hat (100%)": 1,
+            "Feathered Hat Fabric": 20,
+            "Shiny Fish Gem": 200,
+            "Fish Gem": 400,
+            "Jade Colored Fish Scale": 620,
+            "Yellow Colored Fish Scale": 660,
+            "Black Colored Fish Scale": 680
+        }
+    },
+
+    "Party Hat (70%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Party Hat (70%)": 1,
+            "Party Hat Fabric": 20,
+            "Shiny Fish Gem": 150,
+            "Fish Gem": 300,
+            "Blue Colored Fish Scale": 350,
+            "Orange Colored Fish Scale": 400,
+            "Red Colored Fish Scale": 450
+        }
+    },
+    "Party Hat (100%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Party Hat (100%)": 1,
+            "Party Hat Fabric": 20,
+            "Shiny Fish Gem": 200,
+            "Fish Gem": 400,
+            "Blue Colored Fish Scale": 600,
+            "Orange Colored Fish Scale": 660,
+            "Red Colored Fish Scale": 700
+        }
+    }
+}

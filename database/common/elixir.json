@@ -1,0 +1,136 @@
+{
+    "Elixir of Life (No Grade)": {
+        "result_count": 10,
+        "ingredients": {
+            "Mysterious Solvent": 20,
+            "Soul Ore": 40
+        }
+    },
+    "Elixir of Mental Strength (No Grade)": {
+        "result_count": 10,
+        "ingredients": {
+            "Mysterious Solvent": 20,
+            "Spirit Ore": 30
+        }
+    },
+    "Elixir of CP (No Grade)": {
+        "result_count": 10,
+        "ingredients": {
+            "Mysterious Solvent": 10,
+            "Soul Ore": 20
+        }
+    },
+
+    "Elixir of Life (D Grade)": {
+        "result_count": 10,
+        "ingredients": {
+            "Mysterious Solvent": 20,
+            "Soul Ore": 130
+        }
+    },
+    "Elixir of Mental Strength (D Grade)": {
+        "result_count": 10,
+        "ingredients": {
+            "Mysterious Solvent": 20,
+            "Spirit Ore": 80
+        }
+    },
+    "Elixir of CP (D Grade)": {
+        "result_count": 10,
+        "ingredients": {
+            "Mysterious Solvent": 15,
+            "Soul Ore": 50
+        }
+    },
+
+    "Elixir of Life (C Grade)": {
+        "result_count": 10,
+        "ingredients": {
+            "Mysterious Solvent": 20,
+            "Soul Ore": 280
+        }
+    },
+    "Elixir of Mental Strength (C Grade)": {
+        "result_count": 10,
+        "ingredients": {
+            "Mysterious Solvent": 30,
+            "Spirit Ore": 210
+        }
+    },
+    "Elixir of CP (C Grade)": {
+        "result_count": 10,
+        "ingredients": {
+            "Mysterious Solvent": 25,
+            "Soul Ore": 110
+        }
+    },
+
+    "Elixir of Life (B Grade)": {
+        "result_count": 10,
+        "ingredients": {
+            "Mysterious Solvent": 50,
+            "Soul Ore": 380
+        }
+    },
+    "Elixir of Mental Strength (B Grade)": {
+        "result_count": 10,
+        "ingredients": {
+            "Asofe": 1,
+            "Mysterious Solvent": 60,
+            "Spirit Ore": 260
+        }
+    },
+    "Elixir of CP (B Grade)": {
+        "result_count": 10,
+        "ingredients": {
+            "Mysterious Solvent": 50,
+            "Soul Ore": 140
+        }
+    },
+
+    "Elixir of Life (A Grade)": {
+        "result_count": 10,
+        "ingredients": {
+            "Mysterious Solvent": 50,
+            "Soul Ore": 480
+        }
+    },
+    "Elixir of Mental Strength (A Grade)": {
+        "result_count": 10,
+        "ingredients": {
+            "Asofe": 2,
+            "Mysterious Solvent": 60,
+            "Spirit Ore": 315
+        }
+    },
+    "Elixir of CP (A Grade)": {
+        "result_count": 10,
+        "ingredients": {
+            "Mysterious Solvent": 50,
+            "Soul Ore": 180
+        }
+    },
+
+    "Elixir of Life (S Grade)": {
+        "result_count": 10,
+        "ingredients": {
+            "Mysterious Solvent": 50,
+            "Soul Ore": 580
+        }
+    },
+    "Elixir of Mental Strength (S Grade)": {
+        "result_count": 10,
+        "ingredients": {
+            "Asofe": 3,
+            "Mysterious Solvent": 60,
+            "Spirit Ore": 360
+        }
+    },
+    "Elixir of CP (S Grade)": {
+        "result_count": 10,
+        "ingredients": {
+            "Mysterious Solvent": 50,
+            "Soul Ore": 220
+        }
+    }
+}

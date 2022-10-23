@@ -1,0 +1,437 @@
+{
+    "Dye of CON [Con+1 Dex-1]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of CON [Con+1 Dex-1]": 1,
+            "Greater Fish Oil": 10,
+            "Thick Fish Bone": 10,
+            "Thin Fish Bone": 70
+        }
+    },
+    "Dye of CON [Con+1 Str-1]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of CON [Con+1 Str-1]": 1,
+            "Greater Fish Oil": 10,
+            "Thick Fish Bone": 10,
+            "Thin Fish Bone": 70
+        }
+    },
+    "Dye of DEX [Dex+1 Str-1]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of DEX [Dex+1 Str-1]": 1,
+            "Greater Fish Oil": 10,
+            "Thick Fish Bone": 10,
+            "Thin Fish Bone": 70
+        }
+    },
+    "Dye of DEX [Dex+1 Con-1]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of DEX [Dex+1 Con-1]": 1,
+            "Greater Fish Oil": 10,
+            "Thick Fish Bone": 10,
+            "Thin Fish Bone": 70
+        }
+    },
+    "Dye of INT [Int+1 Men-1]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of INT [Int+1 Men-1]": 1,
+            "Greater Fish Oil": 10,
+            "Thick Fish Bone": 10,
+            "Thin Fish Bone": 70
+        }
+    },
+    "Dye of INT [Int+1 Wit-1]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of INT [Int+1 Wit-1]": 1,
+            "Greater Fish Oil": 10,
+            "Thick Fish Bone": 10,
+            "Thin Fish Bone": 70
+        }
+    },
+    "Dye of MEN [Men+1 Int-1]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of MEN [Men+1 Int-1]": 1,
+            "Greater Fish Oil": 10,
+            "Thick Fish Bone": 10,
+            "Thin Fish Bone": 70
+        }
+    },
+    "Dye of MEN [Men+1 Wit-1]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of MEN [Men+1 Wit-1]": 1,
+            "Greater Fish Oil": 10,
+            "Thick Fish Bone": 10,
+            "Thin Fish Bone": 70
+        }
+    },
+    "Dye of STR [Str+1 Con-1]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of STR [Str+1 Con-1]": 1,
+            "Greater Fish Oil": 10,
+            "Thick Fish Bone": 10,
+            "Thin Fish Bone": 70
+        }
+    },
+    "Dye of STR [Str+1 Dex-1]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of STR [Str+1 Dex-1]": 1,
+            "Greater Fish Oil": 10,
+            "Thick Fish Bone": 10,
+            "Thin Fish Bone": 70
+        }
+    },
+    "Dye of WIT [Wit+1 Int-1]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of WIT [Wit+1 Int-1]": 1,
+            "Greater Fish Oil": 10,
+            "Thick Fish Bone": 10,
+            "Thin Fish Bone": 70
+        }
+    },
+    "Dye of WIT [Wit+1 Men-1]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of WIT [Wit+1 Men-1]": 1,
+            "Greater Fish Oil": 10,
+            "Thick Fish Bone": 10,
+            "Thin Fish Bone": 70
+        }
+    },
+    
+    "Dye of CON [Con+2 Dex-2]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of CON [Con+2 Dex-2]": 1,
+            "Premium Fish Oil": 7,
+            "Thick Fish Bone": 22,
+            "Thin Fish Bone": 98
+        }
+    },
+    "Dye of CON [Con+2 Str-2]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of CON [Con+2 Str-2]": 1,
+            "Premium Fish Oil": 7,
+            "Thick Fish Bone": 22,
+            "Thin Fish Bone": 98
+        }
+    },
+    "Dye of DEX [Dex+2 Str-2]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of DEX [Dex+2 Str-2]": 1,
+            "Premium Fish Oil": 7,
+            "Thick Fish Bone": 22,
+            "Thin Fish Bone": 98
+        }
+    },
+    "Dye of DEX [Dex+2 Con-2]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of DEX [Dex+2 Con-2]": 1,
+            "Premium Fish Oil": 7,
+            "Thick Fish Bone": 22,
+            "Thin Fish Bone": 98
+        }
+    },
+    "Dye of INT [Int+2 Men-2]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of INT [Int+2 Men-2]": 1,
+            "Premium Fish Oil": 7,
+            "Thick Fish Bone": 22,
+            "Thin Fish Bone": 98
+        }
+    },
+    "Dye of INT [Int+2 Wit-2]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of INT [Int+2 Wit-2]": 1,
+            "Premium Fish Oil": 7,
+            "Thick Fish Bone": 22,
+            "Thin Fish Bone": 98
+        }
+    },
+    "Dye of MEN [Men+2 Int-2]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of MEN [Men+2 Int-2]": 1,
+            "Premium Fish Oil": 7,
+            "Thick Fish Bone": 22,
+            "Thin Fish Bone": 98
+        }
+    },
+    "Dye of MEN [Men+2 Wit-2]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of MEN [Men+2 Wit-2]": 1,
+            "Premium Fish Oil": 7,
+            "Thick Fish Bone": 22,
+            "Thin Fish Bone": 98
+        }
+    },
+    "Dye of STR [Str+2 Con-2]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of STR [Str+2 Con-2]": 1,
+            "Premium Fish Oil": 7,
+            "Thick Fish Bone": 22,
+            "Thin Fish Bone": 98
+        }
+    },
+    "Dye of STR [Str+2 Dex-2]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of STR [Str+2 Dex-2]": 1,
+            "Premium Fish Oil": 7,
+            "Thick Fish Bone": 22,
+            "Thin Fish Bone": 98
+        }
+    },
+    "Dye of WIT [Wit+2 Int-2]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of WIT [Wit+2 Int-2]": 1,
+            "Premium Fish Oil": 7,
+            "Thick Fish Bone": 22,
+            "Thin Fish Bone": 98
+        }
+    },
+    "Dye of WIT [Wit+2 Men-2]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of WIT [Wit+2 Men-2]": 1,
+            "Premium Fish Oil": 7,
+            "Thick Fish Bone": 22,
+            "Thin Fish Bone": 98
+        }
+    },
+
+    "Dye of CON [Con+3 Dex-3]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of CON [Con+3 Dex-3]": 1,
+            "Premium Fish Oil": 12,
+            "Thick Fish Bone": 40,
+            "Thin Fish Bone": 130
+        }
+    },
+    "Dye of CON [Con+3 Str-3]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of CON [Con+3 Str-3]": 1,
+            "Premium Fish Oil": 12,
+            "Thick Fish Bone": 40,
+            "Thin Fish Bone": 130
+        }
+    },
+    "Dye of DEX [Dex+3 Str-3]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of DEX [Dex+3 Str-3]": 1,
+            "Premium Fish Oil": 12,
+            "Thick Fish Bone": 40,
+            "Thin Fish Bone": 130
+        }
+    },
+    "Dye of DEX [Dex+3 Con-3]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of DEX [Dex+3 Con-3]": 1,
+            "Premium Fish Oil": 12,
+            "Thick Fish Bone": 40,
+            "Thin Fish Bone": 130
+        }
+    },
+    "Dye of INT [Int+3 Men-3]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of INT [Int+3 Men-3]": 1,
+            "Premium Fish Oil": 12,
+            "Thick Fish Bone": 40,
+            "Thin Fish Bone": 130
+        }
+    },
+    "Dye of INT [Int+3 Wit-3]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of INT [Int+3 Wit-3]": 1,
+            "Premium Fish Oil": 12,
+            "Thick Fish Bone": 40,
+            "Thin Fish Bone": 130
+        }
+    },
+    "Dye of MEN [Men+3 Int-3]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of MEN [Men+3 Int-3]": 1,
+            "Premium Fish Oil": 12,
+            "Thick Fish Bone": 40,
+            "Thin Fish Bone": 130
+        }
+    },
+    "Dye of MEN [Men+3 Wit-3]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of MEN [Men+3 Wit-3]": 1,
+            "Premium Fish Oil": 12,
+            "Thick Fish Bone": 40,
+            "Thin Fish Bone": 130
+        }
+    },
+    "Dye of STR [Str+3 Con-3]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of STR [Str+3 Con-3]": 1,
+            "Premium Fish Oil": 12,
+            "Thick Fish Bone": 40,
+            "Thin Fish Bone": 130
+        }
+    },
+    "Dye of STR [Str+3 Dex-3]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of STR [Str+3 Dex-3]": 1,
+            "Premium Fish Oil": 12,
+            "Thick Fish Bone": 40,
+            "Thin Fish Bone": 130
+        }
+    },
+    "Dye of WIT [Wit+3 Int-3]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of WIT [Wit+3 Int-3]": 1,
+            "Premium Fish Oil": 12,
+            "Thick Fish Bone": 40,
+            "Thin Fish Bone": 130
+        }
+    },
+    "Dye of WIT [Wit+3 Men-3]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of WIT [Wit+3 Men-3]": 1,
+            "Premium Fish Oil": 12,
+            "Thick Fish Bone": 40,
+            "Thin Fish Bone": 130
+        }
+    },
+
+    "Dye of CON [Con+4 Dex-4]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of CON [Con+4 Dex-4]": 1,
+            "Premium Fish Oil": 16,
+            "Thick Fish Bone": 60,
+            "Thin Fish Bone": 230
+        }
+    },
+    "Dye of CON [Con+4 Str-4]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of CON [Con+4 Str-4]": 1,
+            "Premium Fish Oil": 16,
+            "Thick Fish Bone": 60,
+            "Thin Fish Bone": 230
+        }
+    },
+    "Dye of DEX [Dex+4 Str-4]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of DEX [Dex+4 Str-4]": 1,
+            "Premium Fish Oil": 16,
+            "Thick Fish Bone": 60,
+            "Thin Fish Bone": 230
+        }
+    },
+    "Dye of DEX [Dex+4 Con-4]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of DEX [Dex+4 Con-4]": 1,
+            "Premium Fish Oil": 16,
+            "Thick Fish Bone": 60,
+            "Thin Fish Bone": 230
+        }
+    },
+    "Dye of INT [Int+4 Men-4]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of INT [Int+4 Men-4]": 1,
+            "Premium Fish Oil": 16,
+            "Thick Fish Bone": 60,
+            "Thin Fish Bone": 230
+        }
+    },
+    "Dye of INT [Int+4 Wit-4]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of INT [Int+4 Wit-4]": 1,
+            "Premium Fish Oil": 16,
+            "Thick Fish Bone": 60,
+            "Thin Fish Bone": 230
+        }
+    },
+    "Dye of MEN [Men+4 Int-4]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of MEN [Men+4 Int-4]": 1,
+            "Premium Fish Oil": 16,
+            "Thick Fish Bone": 60,
+            "Thin Fish Bone": 230
+        }
+    },
+    "Dye of MEN [Men+4 Wit-4]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of MEN [Men+4 Wit-4]": 1,
+            "Premium Fish Oil": 16,
+            "Thick Fish Bone": 60,
+            "Thin Fish Bone": 230
+        }
+    },
+    "Dye of STR [Str+4 Con-4]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of STR [Str+4 Con-4]": 1,
+            "Premium Fish Oil": 16,
+            "Thick Fish Bone": 60,
+            "Thin Fish Bone": 230
+        }
+    },
+    "Dye of STR [Str+4 Dex-4]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of STR [Str+4 Dex-4]": 1,
+            "Premium Fish Oil": 16,
+            "Thick Fish Bone": 60,
+            "Thin Fish Bone": 230
+        }
+    },
+    "Dye of WIT [Wit+4 Int-4]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of WIT [Wit+4 Int-4]": 1,
+            "Premium Fish Oil": 16,
+            "Thick Fish Bone": 60,
+            "Thin Fish Bone": 230
+        }
+    },
+    "Dye of WIT [Wit+4 Men-4]": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Dye of WIT [Wit+4 Men-4]": 1,
+            "Premium Fish Oil": 16,
+            "Thick Fish Bone": 60,
+            "Thin Fish Bone": 230
+        }
+    }
+}

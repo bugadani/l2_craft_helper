@@ -21,7 +21,10 @@ fn read_database() -> RecipeDatabase {
     let mut database = RecipeDatabase::new();
 
     database.add(read_file("database/materials.json"));
-    database.add(read_file("database/common.json"));
+    database.add(read_file("database/common/common.json"));
+    database.add(read_file("database/common/accessories.json"));
+    database.add(read_file("database/common/elixir.json"));
+    database.add(read_file("database/common/dye.json"));
     
     for category in ["weapons", "jewels", "armor"] {
         for grade in ["ng", "d", "c", "b", "a"] {
