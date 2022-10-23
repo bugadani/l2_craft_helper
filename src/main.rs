@@ -17,8 +17,23 @@ fn read_file<T: DeserializeOwned>(file: &str) -> T {
     serde_json::from_reader(file_reader).expect("Failed to parse database file")
 }
 
+fn read_database() -> RecipeDatabase {
+    let mut database = RecipeDatabase::new();
+
+    database.add(read_file("database/materials.json"));
+    database.add(read_file("database/common.json"));
+    
+    for category in ["weapons", "jewels", "armor"] {
+        for grade in ["ng", "d", "c", "b", "a"] {
+            database.add(read_file(&format!("database/{category}/{grade}.json")));
+        }
+    }
+
+    database
+}
+
 fn main() {
-    let database: RecipeDatabase = read_file("database.json");
+    let database = read_database();
     let mut input: Input = read_file("input.json");
 
     let recipe = input.recipes.clone();
