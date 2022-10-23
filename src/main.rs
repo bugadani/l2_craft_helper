@@ -1,5 +1,5 @@
 use database::RecipeDatabase;
-use inventory::Inventory;
+use inventory::{Inventory, ItemList};
 use serde::{de::DeserializeOwned, Deserialize, Serialize};
 
 pub mod database;
@@ -8,7 +8,7 @@ pub mod recipe;
 
 #[derive(Deserialize, Serialize)]
 pub struct Input {
-    recipe: String,
+    recipes: ItemList,
     inventory: Inventory,
 }
 
@@ -20,12 +20,12 @@ fn read_file<T: DeserializeOwned>(file: &str) -> T {
 fn main() {
     let database: RecipeDatabase = read_file("database.json");
     let mut input: Input = read_file("input.json");
-    
-    let recipe = input.recipe.clone();
-    match input.inventory.craft(&recipe, &database) {
-        Ok(_) => println!("You have enough materials to craft {recipe}"),
+
+    let recipe = input.recipes.clone();
+    match input.inventory.craft(recipe, &database) {
+        Ok(_) => println!("You have enough materials"),
         Err(missing) => {
-            println!("You need the following materials to craft {recipe}:");
+            println!("You need the following materials:");
             for (material, amount) in missing {
                 println!(" - {amount} x {material}");
             }

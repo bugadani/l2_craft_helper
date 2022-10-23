@@ -1,5 +1,7 @@
 {
-    "recipe": "Coarse Bone Powder",
+    "recipes": {
+        "Coarse Bone Powder": 1
+    },
     "inventory": {
         "items": {
             "Animal Bone": 10

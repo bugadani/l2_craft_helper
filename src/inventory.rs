@@ -34,12 +34,18 @@ impl Inventory {
 
     /// Tries to craft a recipe.
     /// Returns the new inventory on success and the missing items on failure.
-    pub fn craft(&mut self, recipe: &str, recipes: &RecipeDatabase) -> Result<(), ItemList> {
+    pub fn craft(&mut self, recipe: ItemList, recipes: &RecipeDatabase) -> Result<(), ItemList> {
         // Clone inventory because we will be modifying it before making sure we have everything for the recipe.
         let original_items = self.items.clone();
-        
+
         // The working list of ingredients.
-        let mut missing_items = recipes.recipes[recipe].ingredients.clone();
+        let mut missing_items = ItemList::new();
+
+        for (item, &amount) in recipe.iter() {
+            for (ingredient, &ing_amount) in &recipes.recipes[item].ingredients {
+                missing_items.insert(ingredient.clone(), ing_amount * amount);
+            }
+        }
 
         // Work gradually towards less and less complex ingredients.
 
@@ -74,7 +80,8 @@ impl Inventory {
                     for (component, count) in subcomponents.iter() {
                         // println!("Adding {count} x {component} from {item}");
                         run_next_iteration = true;
-                        *missing_items_after.entry(component.clone()).or_insert(0) += count * (amount - present);
+                        *missing_items_after.entry(component.clone()).or_insert(0) +=
+                            count * (amount - present);
                     }
                 }
             }
@@ -83,7 +90,9 @@ impl Inventory {
         }
 
         if missing_items.is_empty() {
-            self.add(recipe, recipes.recipes[recipe].result_count);
+            for (item, amount) in recipe {
+                self.add(&item, amount * recipes.recipes[&item].result_count);
+            }
             Ok(())
         } else {
             self.items = original_items;
@@ -136,7 +145,10 @@ mod test {
         };
 
         inventory
-            .craft("Coarse Bone Powder", &database)
+            .craft(
+                ItemList::from([("Coarse Bone Powder".into(), 1)]),
+                &database,
+            )
             .expect("Failed to craft cbp");
 
         assert_eq!(inventory.items["Coarse Bone Powder"], 1);
@@ -152,7 +164,10 @@ mod test {
         };
 
         let missing = inventory
-            .craft("Coarse Bone Powder", &database)
+            .craft(
+                ItemList::from([("Coarse Bone Powder".into(), 1)]),
+                &database,
+            )
             .expect_err("Crafted CBP from insufficient items");
 
         assert_eq!(missing["Animal Bone"], 1);
@@ -173,7 +188,7 @@ mod test {
         };
 
         inventory
-            .craft("Varnish of Purity", &database)
+            .craft(ItemList::from([("Varnish of Purity".into(), 1)]), &database)
             .expect("Failed to craft VoP");
 
         assert_eq!(inventory.items["Varnish of Purity"], 2);
@@ -197,7 +212,7 @@ mod test {
         };
 
         let missing = inventory
-            .craft("Varnish of Purity", &database)
+            .craft(ItemList::from([("Varnish of Purity".into(), 1)]), &database)
             .expect_err("Crafted VoP from insufficient items");
 
         assert_eq!(missing["Animal Bone"], 1);
