@@ -1,1 +1,28 @@
-{}
+{
+    "Sword of Valhalla (60%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Sword of Valhalla (60%)": 1,
+            "Artisan's Frame": 2,
+            "Sword of Valhalla Blade": 12,
+            "Enria": 36,
+            "Gemstone B": 62,
+            "Synthetic Cokes": 72,
+            "Mithril Alloy": 72,
+            "Crystal: C-Grade": 360
+        }
+    },
+    "Sword of Valhalla (100%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Sword of Valhalla (100%)": 1,
+            "Craftsman Mold": 2,
+            "Sword of Valhalla Blade": 12,
+            "Enria": 57,
+            "Gemstone B": 62,
+            "Synthetic Cokes": 114,
+            "Mithril Alloy": 114,
+            "Crystal: C-Grade": 517
+        }
+    }
+}
