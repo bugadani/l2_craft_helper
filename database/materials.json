@@ -207,5 +207,13 @@
             "Adamantine Nugget": 15,
             "Cord": 40
         }
+    },
+    "Craftsman Mold": {
+        "result_count": 1,
+        "ingredients": {
+            "Artisan's Frame": 2,
+            "Enria": 5,
+            "Mold Hardener": 20
+        }
     }
 }

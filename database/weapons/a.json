@@ -1,1 +1,30 @@
-{}
+{
+    "Sword of Miracles (60%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Craftsman Mold": 3,
+            "Recipe: Sword of Miracles (60%)": 1,
+            "Sword of Miracles Edge": 14,
+            "Gemstone A": 74,
+            "Enria": 80,
+            "Durable Metal Plate": 80,
+            "Crystal: A-Grade": 152,
+            "Synthetic Cokes": 160,
+            "Mithril Alloy": 160
+        }
+    },
+    "Sword of Miracles (100%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Craftsman Mold": 4,
+            "Recipe: Sword of Miracles (100%)": 1,
+            "Sword of Miracles Edge": 14,
+            "Gemstone A": 74,
+            "Enria": 160,
+            "Durable Metal Plate": 160,
+            "Synthetic Cokes": 320,
+            "Mithril Alloy": 320,
+            "Crystal: A-Grade": 372
+        }
+    }
+}
