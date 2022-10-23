@@ -1,1 +1,206 @@
-{}
+{
+    "Doom Boots (60%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Doom Boots (60%)": 1,
+            "Gemstone B": 4,
+            "High Grade Suede": 4,
+            "Asofe": 4,
+            "Doom Boots Part": 13,
+            "Crystal: B-Grade": 8,
+            "Crafted Leather": 32
+        }
+    },
+    "Doom Boots (100%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Maestro Anvil Lock": 1,
+            "Recipe: Doom Boots (100%)": 1,
+            "Gemstone B": 4,
+            "High Grade Suede": 6,
+            "Asofe": 6,
+            "Doom Boots Part": 13,
+            "Crystal: B-Grade": 15,
+            "Crafted Leather": 48
+        }
+    },
+    "Doom Gloves (60%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Doom Gloves (60%)": 1,
+            "Gemstone B": 4,
+            "High Grade Suede": 4,
+            "Asofe": 4,
+            "Doom Gloves Part": 13,
+            "Crystal: B-Grade": 8,
+            "Crafted Leather": 32
+        }
+    },
+    "Doom Gloves (100%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Maestro Anvil Lock": 1,
+            "Recipe: Doom Gloves (100%)": 1,
+            "Gemstone B": 4,
+            "High Grade Suede": 6,
+            "Asofe": 6,
+            "Doom Gloves Part": 13,
+            "Crystal: B-Grade": 15,
+            "Crafted Leather": 48
+        }
+    },
+    "Doom Helmet (60%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Blacksmith's Frame": 1,
+            "Recipe: Doom Helmet (60%)": 1,
+            "Asofe": 4,
+            "Gemstone B": 7,
+            "Doom Helmet Pattern": 13,
+            "Crystal: B-Grade": 14,
+            "Crafted Leather": 40
+        }
+    },
+    "Doom Helmet (100%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Maestro Mold": 1,
+            "Recipe: Doom Helmet (100%)": 1,
+            "Asofe": 5,
+            "Gemstone B": 7,
+            "Doom Helmet Pattern": 13,
+            "Crystal: B-Grade": 39,
+            "Crafted Leather": 50
+        }
+    },
+    "Doom Plate Armor (60%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Doom Plate Armor (60%)": 1,
+            "Blacksmith's Frame": 4,
+            "Doom Plate Armor Temper": 13,
+            "Varnish of Purity": 15,
+            "Asofe": 30,
+            "Gemstone B": 31,
+            "Mithril Alloy": 45,
+            "Crystal: B-Grade": 60
+        }
+    },
+    "Doom Plate Armor (100%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Doom Plate Armor (100%)": 1,
+            "Maestro Mold": 4,
+            "Doom Plate Armor Temper": 13,
+            "Varnish of Purity": 23,
+            "Asofe": 46,
+            "Gemstone B": 31,
+            "Mithril Alloy": 69,
+            "Crystal: B-Grade": 136
+        }
+    },
+    "Leather Armor of Doom (60%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Leather Armor of Doom (60%)": 1,
+            "Leather Armor of Doom Design": 12,
+            "Gemstone B": 22,
+            "Compound Braid": 25,
+            "Asofe": 25,
+            "Crystal: B-Grade": 48,
+            "Metallic Fiber": 50,
+            "Crafted Leather": 100
+        }
+    },
+    "Leather Armor of Doom (100%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Leather Armor of Doom (100%)": 1,
+            "Maestro Anvil Lock": 3,
+            "Leather Armor of Doom Design": 12,
+            "Gemstone B": 22,
+            "Compound Braid": 35,
+            "Asofe": 35,
+            "Metallic Fiber": 70,
+            "Crystal: B-Grade": 107,
+            "Crafted Leather": 140
+        }
+    },
+    "Tunic of Doom (60%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Tunic of Doom (60%)": 1,
+            "Tunic of Doom Pattern": 13,
+            "Gemstone B": 14,
+            "Crystal: B-Grade": 32,
+            "Metallic Fiber": 32,
+            "Asofe": 32,
+            "Crafted Leather": 64
+        }
+    },
+    "Tunic of Doom (100%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Tunic of Doom (100%)": 1,
+            "Maestro Anvil Lock": 2,
+            "Tunic of Doom Pattern": 13,
+            "Gemstone B": 14,
+            "Crystal: B-Grade": 73,
+            "Metallic Fiber": 44,
+            "Asofe": 44,
+            "Crafted Leather": 88
+        }
+    },
+    "Stockings of Doom (60%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Stockings of Doom (60%)": 1,
+            "Stockings of Doom Pattern": 13,
+            "Gemstone B": 8,
+            "Crystal: B-Grade": 18,
+            "Metallic Fiber": 30,
+            "Asofe": 30,
+            "Crafted Leather": 30
+        }
+    },
+    "Stockings of Doom (100%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Stockings of Doom (100%)": 1,
+            "Maestro Anvil Lock": 1,
+            "Stockings of Doom Pattern": 13,
+            "Gemstone B": 8,
+            "Crystal: B-Grade": 47,
+            "Metallic Fiber": 41,
+            "Asofe": 41,
+            "Crafted Leather": 41
+        }
+    },
+    "Doom Shield (60%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Recipe: Doom Shield (60%)": 1,
+            "Synthetic Cokes": 3,
+            "Crafted Leather": 3,
+            "Asofe": 3,
+            "Gemstone B": 4,
+            "Mithril Alloy": 9,
+            "Doom Shield Fragment": 13,
+            "Crystal: B-Grade": 15
+        }
+    },
+    "Doom Shield (100%)": {
+        "result_count": 1,
+        "ingredients": {
+            "Maestro Anvil Lock": 1,
+            "Recipe: Doom Shield (100%)": 1,
+            "Synthetic Cokes": 3,
+            "Crafted Leather": 3,
+            "Asofe": 3,
+            "Gemstone B": 4,
+            "Mithril Alloy": 9,
+            "Doom Shield Fragment": 13,
+            "Crystal: B-Grade": 20
+        }
+    }
+}
