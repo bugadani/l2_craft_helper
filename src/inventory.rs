@@ -42,9 +42,14 @@ impl Inventory {
         let mut missing_items = ItemList::new();
 
         for (item, &amount) in recipe.iter() {
+            if amount == 0 {
+                continue;
+            }
             if let Some(recipe) = recipes.recipes.get(item) {
                 for (ingredient, &ing_amount) in &recipe.ingredients {
-                    missing_items.insert(ingredient.clone(), ing_amount * amount);
+                    if ing_amount > 0 {
+                        missing_items.insert(ingredient.clone(), ing_amount * amount);
+                    }
                 }
             } else {
                 println!("Unknown recipe: {item}");
