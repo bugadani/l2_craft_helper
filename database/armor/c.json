@@ -1,1 +1,32 @@
-{}
+{
+    "Plated Leather Boots": {
+        "result_count": 1,
+        "ingredients": {
+            "High Grade Suede": 1,
+            "Gemstone C": 3,
+            "Crafted Leather": 8,
+            "Plate Leather Boot Lining": 8,
+            "Crystal: D-Grade": 40
+        }
+    },
+    "Plated Leather Gaiters": {
+        "result_count": 1,
+        "ingredients": {
+            "Gemstone C": 7,
+            "Plated Leather Gaiters Material": 9,
+            "Crystal: C-Grade": 18,
+            "Crafted Leather": 18,
+            "Metallic Fiber": 18
+        }
+    },
+    "Plated Leather": {
+        "result_count": 1,
+        "ingredients": {
+            "Plated Leather Fragment": 9,
+            "Gemstone C": 12,
+            "Metallic Fiber": 15,
+            "Crystal: C-Grade": 30,
+            "Crafted Leather": 30
+        }
+    }
+}
